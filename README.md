@@ -7,7 +7,7 @@ Real-time click tracking
 Clean and responsive design
 Built with vanilla HTML, CSS, and JavaScript
 Feel free to explore and contribute!
-Thank you, have a great time.
+
 
 
 
